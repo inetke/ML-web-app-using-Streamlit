@@ -19,9 +19,9 @@ val6 = st.slider('BMI', min_value=0, max_value=70, step=5)
 val7 = st.slider('Diabetes Pedigree Function', min_value=0.0, max_value=2.5, step=0.1)
 val8 = st.slider('Age', min_value=0, max_value=90, step=1)
 
-if st.button("Predict"):
+if st.button('Predict'):
     prediction = str(model.predict([[val1, val2, val3, val4, val5, val6, val7, val8]])[0])
     pred_class = class_dict[prediction]
     st.divider()
-    st.write("Prediction:", pred_class)
+    st.write('Prediction:', pred_class)
     st.divider()

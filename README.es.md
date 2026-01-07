@@ -1,3 +1,27 @@
+# 🩺 Diabetes Prediction App
+
+Aplicación web desarrollada con **Streamlit** que utiliza un modelo de
+**Machine Learning (Random Forest)** para predecir si una persona tiene diabetes
+a partir de datos clínicos.
+
+## 📊 Modelo
+- Algoritmo: Random Forest Classifier
+- Dataset: Pima Indians Diabetes Dataset
+- Lenguaje: Python
+
+## 🧰 Tecnologías utilizadas
+- Python
+- Streamlit
+- Scikit-learn
+- Render
+
+## 🚀 Aplicación en línea
+🔗 ()
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 # Plantilla de Proyecto de Ciencia de Datos
 
 Esta plantilla está diseñada para impulsar proyectos de ciencia de datos proporcionando una configuración básica para conexiones de base de datos, procesamiento de datos, y desarrollo de modelos de aprendizaje automático. Incluye una organización estructurada de carpetas para tus conjuntos de datos y un conjunto de paquetes de Python predefinidos necesarios para la mayoría de las tareas de ciencia de datos.

@@ -1,3 +1,27 @@
+# 🩺 Diabetes Prediction App
+
+Aplicación web desarrollada con **Streamlit** que utiliza un modelo de
+**Machine Learning (Random Forest)** para predecir si una persona tiene diabetes
+a partir de datos clínicos.
+
+## 📊 Modelo
+- Algoritmo: Random Forest Classifier
+- Dataset: Pima Indians Diabetes Dataset
+- Lenguaje: Python
+
+## 🧰 Tecnologías utilizadas
+- Python
+- Streamlit
+- Scikit-learn
+- Render
+
+## 🚀 Aplicación en línea
+🔗 ()
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+
 # Data Science Project Boilerplate
 
 This boilerplate is designed to kickstart data science projects by providing a basic setup for database connections, data processing, and machine learning model development. It includes a structured folder organization for your datasets and a set of pre-defined Python packages necessary for most data science tasks.
