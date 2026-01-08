@@ -1,22 +1,24 @@
 # 🩺 Diabetes Prediction App
 
-Aplicación web desarrollada con **Streamlit** que utiliza un modelo de
-**Machine Learning (Random Forest)** para predecir si una persona tiene diabetes
-a partir de datos clínicos.
+Web application developed with **Streamlit** that uses a
+**Machine Learning model (Random Forest)** to predict whether a person has diabetes
+based on clinical data.
 
-## 📊 Modelo
-- Algoritmo: Random Forest Classifier
+## 📊 Model
+- Algorithm: Random Forest Classifier
 - Dataset: Pima Indians Diabetes Dataset
-- Lenguaje: Python
+- Language: Python
 
-## 🧰 Tecnologías utilizadas
+## 🧰 Technologies Used
 - Python
 - Streamlit
 - Scikit-learn
 - Render
 
-## 🚀 Aplicación en línea
-🔗 ()
+## 🚀 Live Applications
+🔗 - Render: https://ml-web-app-using-streamlit-bewk.onrender.com
+
+🔗 - Streamlit Cloud: https://ml-web-app-using-app-vsbsujngrp4dcy3lwyy2fo.streamlit.app/
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
