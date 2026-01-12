@@ -13,7 +13,6 @@ a partir de datos clínicos.
 - Python
 - Streamlit
 - Scikit-learn
-- Render
 
 ## 🚀 Aplicación en línea
 
