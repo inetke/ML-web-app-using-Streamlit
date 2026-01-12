@@ -15,11 +15,9 @@ based on clinical data.
 - Scikit-learn
 - Render
 
-## 🚀 Live Applications
-🔗 - Render: https://ml-web-app-using-streamlit-bewk.onrender.com
+## 🚀 Live Application
 
 🔗 - Streamlit Cloud: https://ml-web-app-using-app-vsbsujngrp4dcy3lwyy2fo.streamlit.app/
-
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 

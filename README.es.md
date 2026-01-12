@@ -15,8 +15,7 @@ a partir de datos clínicos.
 - Scikit-learn
 - Render
 
-## 🚀 Aplicaciones en línea
-🔗 - Render: https://ml-web-app-using-streamlit-bewk.onrender.com
+## 🚀 Aplicación en línea
 
 🔗 - Streamlit Cloud: https://ml-web-app-using-app-vsbsujngrp4dcy3lwyy2fo.streamlit.app/
 
