@@ -3,8 +3,8 @@ import streamlit as st
 
 model = load(open('src/random-forest-diabetes.pkl', 'rb'))
 
-class_dict = {'0': 'You are not diabetic',
-              '1': 'You are diabetic'}
+class_dict = {'0': 'You are not diabetic ✅',
+              '1': 'You are diabetic ⚠️'}
 
 st.title('🩺 Diabetes - Model prediction')
 st.markdown("""Power by: [Ineta Keryte]()""")
